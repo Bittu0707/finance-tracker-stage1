@@ -15,7 +15,7 @@ A simple React + Vite web app for tracking personal transactions and viewing mon
 - Responsive UI
 
 ## 📦 Live Demo
-🔗 [Click here to view live app]([https://your-app-url.vercel.app](https://finance-tracker-stage1.vercel.app/))
+🔗 [Click here to view live app](https://finance-tracker-stage1.vercel.app/)
 
 ## 💻 Local Setup
 
